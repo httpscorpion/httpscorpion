@@ -1,17 +1,15 @@
-## Hi there 👋
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/httpscorpion/count.svg?" />
 </div>
 
-### Heyo ^^
+### neyo ^^
 
-Nothing is impossible. The word itself says "I’m possible!"
+nothing is impossible. the word itself says "i’m possible!"
 
 ---
 
-*Obsessed with **success**.*  
-🔗 **Success:**  
+*Obsessed with ***success**.  
+🔗 **success:**  
 - 🌍 [Website](https://tugaarmy.pt)  
 - 🎙️ [Discord](https://discord.gg/tugaarmy)  
 - 📌 [Steam Group](https://steamcommunity.com/groups/tugaarmycm)  
@@ -20,7 +18,7 @@ Nothing is impossible. The word itself says "I’m possible!"
   <img height="200" src="https://images-ext-1.discordapp.net/external/aeomaD_3Ox49KCIBDZ4UP9D0xEjnNsW0cEnBNvLDq-s/https/aniyuki.com/wp-content/uploads/2022/01/aniyuki-black-and-white-anime-5.gif?width=400&height=222" />
 </div>
 
-<p align="center">// Scorpion 2025</p>
+<p align="center">// scorpion © 2025</p>
 
 
 <!--
