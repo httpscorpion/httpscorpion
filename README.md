@@ -11,7 +11,7 @@ Nothing is impossible. The word itself says "I’m possible!"
 ---
 
 *Obsessed with **success**.*  
-🔗 **Success Links:**  
+🔗 **Success:**  
 - 🌍 [Website](https://tugaarmy.pt)  
 - 🎙️ [Discord](https://discord.gg/tugaarmy)  
 - 📌 [Steam Group](https://steamcommunity.com/groups/tugaarmycm)  
