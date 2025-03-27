@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://profile-counter.glitch.me/httpscorpion/count.svg?" />
-</div>
-
 ### neyo ^^
 
 nothing is impossible. the word itself says "i’m possible!"
@@ -16,6 +12,10 @@ nothing is impossible. the word itself says "i’m possible!"
 
 <div align="left">
   <img height="200" src="https://images-ext-1.discordapp.net/external/aeomaD_3Ox49KCIBDZ4UP9D0xEjnNsW0cEnBNvLDq-s/https/aniyuki.com/wp-content/uploads/2022/01/aniyuki-black-and-white-anime-5.gif?width=400&height=222" />
+</div>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/httpscorpion/count.svg?" />
 </div>
 
 <p align="center">// scorpion © 2025</p>
