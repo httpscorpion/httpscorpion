@@ -4,8 +4,8 @@ nothing is impossible. the word itself says "i’m possible!"
 
 ---
 
-*Obsessed with ***success**.  
-🔗 **success:**  
+Obsessed with *success.  
+🔗 *success:  
 - 🌍 [Website](https://tugaarmy.pt)  
 - 🎙️ [Discord](https://discord.gg/tugaarmy)  
 - 📌 [Steam Group](https://steamcommunity.com/groups/tugaarmycm)  
