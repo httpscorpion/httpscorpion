@@ -1,36 +1,26 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/httpscorpion/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/httpscorpion/count.svg?" />
 </div>
 
-###
+### Heyo ^^
 
-<h3 align="left">heyo ^^</h3>
+Nothing is impossible. The word itself says "I’m possible!"
 
-###
+---
 
-<p align="left">nothing is impossible. the word itself says "I’m possible!"</p>
-
-###
-
-<h1 align="left"></h1>
-
-###
-
-<p align="left">𝘰𝘣𝘴𝘦𝘴𝘴𝘦𝘥 𝘸𝘪𝘵𝘩 *𝙨𝙪𝙘𝙘𝙚𝙨𝙨.ᐟ <br><br>🔗 𝙨𝙪𝙘𝙘𝙚𝙨𝙨.<br>- 🌍 [Website](https://tugaarmy.pt)<br>- 🎙️ [Discord](https://discord.gg/tugaarmy)<br>- 📌 [Steam Group](https://steamcommunity.com/groups/tugaarmycm)</p>
-
-###
+*Obsessed with **success**.*  
+🔗 **Success Links:**  
+- 🌍 [Website](https://tugaarmy.pt)  
+- 🎙️ [Discord](https://discord.gg/tugaarmy)  
+- 📌 [Steam Group](https://steamcommunity.com/groups/tugaarmycm)  
 
 <div align="left">
-  <img height="200" src="https://images-ext-1.discordapp.net/external/aeomaD_3Ox49KCIBDZ4UP9D0xEjnNsW0cEnBNvLDq-s/https/aniyuki.com/wp-content/uploads/2022/01/aniyuki-black-and-white-anime-5.gif?width=400&height=222"  />
+  <img height="200" src="https://images-ext-1.discordapp.net/external/aeomaD_3Ox49KCIBDZ4UP9D0xEjnNsW0cEnBNvLDq-s/https/aniyuki.com/wp-content/uploads/2022/01/aniyuki-black-and-white-anime-5.gif?width=400&height=222" />
 </div>
 
-###
-
-<p align="center">// scorpion 2025</p>
-
-###
+<p align="center">// Scorpion 2025</p>
 
 
 <!--
