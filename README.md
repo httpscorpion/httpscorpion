@@ -1,38 +1,30 @@
-### heyo ^^
+<h1 align="center">heyo ^^</h1>
 
-nothing is impossible. the word itself says "i’m possible!"
+<p align="center"><em>“Nothing is impossible. The word itself says ‘I’m possible!’”</em></p>
 
 ---
 
-Obsessed with *success.  
-🔗 *success:  
+### 🔥 About
+- 🧠 **Name:** Rui "scorpion" Teixeira  
+- 🎓 **Student:** Marketing  
+- 🗺️ **Location:** Portugal  
+
+<p align="center">
+  <img src="https://discord.c99.nl/widget/theme-4/373186714996310026.png" />
+</p>
+
+---
+
+### 💼 Success
+
+Obsessed with *success*. Founder of [Tuga Army](https://tugaarmy.pt)  
+Join us:  
 - 🌍 [Website](https://tugaarmy.pt)  
 - 🎙️ [Discord](https://discord.gg/tugaarmy)  
 - 📌 [Steam Group](https://steamcommunity.com/groups/tugaarmycm)  
-
-<div align="left">
-  <img height="200" src="https://images-ext-1.discordapp.net/external/aeomaD_3Ox49KCIBDZ4UP9D0xEjnNsW0cEnBNvLDq-s/https/aniyuki.com/wp-content/uploads/2022/01/aniyuki-black-and-white-anime-5.gif?width=400&height=222" />
-</div>
+- 🔗 [Other links](https://linktr.ee/tugaarmy)  
 
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/httpscorpion/count.svg?" />
-</div>
+---
 
-<p align="center">// scorpion © 2025</p>
-
-
-<!--
-**httpscorpion/httpscorpion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><sub>scorpion ©2025</sub></p>
