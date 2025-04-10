@@ -10,8 +10,10 @@
 - 🗺️ **Location:** Portugal  
 
 <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/373186714996310026.png" />
+  <img src="https://discord.c99.nl/widget/theme-4/373186714996310026.png" /><br>
+  <img src="https://komarev.com/ghpvc/?username=httpscorpion&color=blue" alt="Profile views" />
 </p>
+
 
 ---
 
@@ -24,7 +26,8 @@ Join us:
 - 📌 [Steam Group](https://steamcommunity.com/groups/tugaarmycm)  
 - 🔗 [Other links](https://linktr.ee/tugaarmy)  
 
-
 ---
 
-<p align="center"><sub>scorpion ©2025</sub></p>
+<p align="center">
+  <sub>scorpion ©2025</sub><br><br>
+</p>
